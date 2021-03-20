@@ -8,7 +8,7 @@ django-bootstrap3==11.1.0
 Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 legacy==0.1.6
 MarkupSafe==1.1.1
 PyMySQL==0.9.3
